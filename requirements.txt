@@ -1,0 +1,4 @@
+jusText==2.2.0
+lxml==4.2.1
+pip==10.0.1
+setuptools==28.8.0
